@@ -43,6 +43,17 @@ nav{
   flex-wrap: wrap;
   justify-content: center;
   gap:40px;
+  padding: 20px;
+  box-sizing: border-box;
+}
+
+@media (max-width: 450px) {
+  .main-container {
+    flex-direction: column;
+    align-items: center;
+    padding-left: 10px;
+    padding-right: 10px;
+  }
 }
 
 .shoe-container img{
