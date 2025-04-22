@@ -1,12 +1,71 @@
-# React + Vite
+# Brand Page 🚀
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A responsive brand landing page built using **React.js**.  
+Showcasing elegant design, modern layout, and clean code – perfect for companies, personal brands, or product showcases.
 
-Currently, two official plugins are available:
+🔗 **Live Demo**: [Nike homepage](https://brand-page-git-main-sujiths-projects-dd9dbe17.vercel.app/)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🛠️ Tech Stack
 
-## Expanding the ESLint configuration
+- **React.js**
+- **HTML5**
+- **CSS3**
+- **JavaScript (ES6+)**
+- **Vercel** (for deployment)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 📸 Screenshots
+
+> _You can add screenshots here later if needed._
+
+## 🧰 Features
+
+- Fully responsive design
+- Clean and structured layout
+- Reusable components
+- Fast and lightweight
+
+## 🚀 Getting Started
+
+### 1. Clone the repository
+```bash
+git clone https://github.com/Sujith-1608/Brand-Page.git
+cd Brand-Page
+```
+### 2. Install dependencies
+```bash
+npm install
+```
+### 3.  Run the app
+```bash
+npm start
+```
+### 4.  Build for production
+```bash
+npm run build
+```
+
+## 📁 Folder Structure
+```bash
+Brand-Page/
+├── public/
+├── src/
+│   ├── components/
+│   ├── assets/
+│   ├── App.js
+│   └── index.js
+├── package.json
+└── README.md
+```
+
+## 📦 Deployment
+Deployed on Vercel – push to main branch and it's live 🚀.
+
+## 📬 Contact
+Sujith Reddy Sama
+📧 ssujithreddi@gmail.com
+
+##
+Give it a ⭐ if you liked the project!
+##
+
+
