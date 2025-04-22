@@ -15,7 +15,7 @@ Showcasing elegant design, modern layout, and clean code – perfect for compani
 
 ## 📸 Screenshots
 
-> _You can add screenshots here later if needed._
+![Brand Page Screenshot](public/images/homepage.png)
 
 ## 🧰 Features
 
@@ -51,8 +51,9 @@ Brand-Page/
 ├── src/
 │   ├── components/
 │   ├── assets/
-│   ├── App.js
-│   └── index.js
+│   ├── App.jsx
+│   └── index.css
+│   └── main.jsx
 ├── package.json
 └── README.md
 ```
